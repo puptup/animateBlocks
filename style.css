@@ -1,0 +1,19 @@
+.blockContainer{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.block{
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: burlywood;
+  transition: background-color 1s linear;
+}
+
+.blockActive{
+  background-color: blue;
+}
+
+
