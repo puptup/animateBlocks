@@ -1,5 +1,5 @@
 import { Elem } from './elem.js'
-import { Demo2 } from './demo1/demo2.js'
+import { Demo2 } from './demo2/demo2.js'
 
 class App extends Elem {
   constructor(parent) {
