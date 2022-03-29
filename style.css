@@ -1,3 +1,5 @@
+/* styles for demo1 start */
+
 .blockContainer{
   display: flex;
   justify-content: space-between;
@@ -16,4 +18,4 @@
   background-color: blue;
 }
 
-
+/* styles for demo1 end */
