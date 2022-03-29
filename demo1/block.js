@@ -1,4 +1,4 @@
-import { Elem } from './elem.js'
+import { Elem } from '../elem.js'
 
 export class Block extends Elem {
   constructor(parent) {
